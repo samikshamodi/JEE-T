@@ -74,7 +74,7 @@ python -m venv streamlit-env
 5. Install the requirements
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 6. Run the app
